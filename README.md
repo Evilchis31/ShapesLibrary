@@ -1,4 +1,9 @@
 # ShapesLibrary
+# Emilio Vilchis
+# FaceDraw
+# EmiliolVilchis@lewisu.edu
+
+# Credit to Eric Pogue
 
 /******************************************************************************
  * Copyright (C) 2018 Eric Pogue.
@@ -123,17 +128,3 @@ class Circle extends Oval {
         return p;
     }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
